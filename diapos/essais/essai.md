@@ -33,10 +33,6 @@ style: |
 <!-- paginate: true -->
 <!-- _class: partie -->
 
-<br>
-<br>
-<br>
-<br>
 
 # INTRODUCTION : <br> La question *"Qu'est-ce que l'homme"*
 
@@ -122,7 +118,7 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 ---
 <!-- _class: partie -->
 
-<br><br><br><br><br>
+
 
 # 1. Nature et culture
 
@@ -146,7 +142,7 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 
 ---
 <!-- _class: texte -->
-<br>
+
 
 >Comment l'homme viendra-t-il à bout de se voir tel que l'a formé la nature, à travers tous les changements que la succession des temps et des choses a dû produire dans sa constitution originelle, et de démêler ce qu'il tient de son propre fonds d'avec ce que les circonstances et ses progrès ont ajouté ou changé à son état primitif ? Semblable à la statue de Glaucus que le temps, la mer et les orages avaient tellement défigurée qu'elle ressemblait moins à un dieu qu'à une bête féroce, l'âme humaine altérée au sein de la société par mille causes sans cesse renaissantes, par l'acquisition d'une multitude de connaissances et d'erreurs, par les changements arrivés à la constitution des corps, et par le choc continuel des passions, a, pour ainsi dire, changé d'apparence au point d'être presque méconnaissable ; 
 
@@ -200,7 +196,7 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 
 ---
 <!-- _class: texte -->
-<br>
+
 
 `← ... suite` 
 >... supposez que nous rencontrions, sur une planète inconnue, des êtres vivants qui fabriquent des outils, nous ne serions pas sûrs pour autant qu'ils relèvent de l'ordre de l'humanité. En vérité, nous en rencontrons sur notre globe, puisque certains animaux sont capables, jusqu'à un certain point, de fabriquer des outils ou des ébauches d'outils. Pourtant, nous ne croyons pas qu'ils aient accompli le passage de la nature à la culture. Mais imaginez que nous tombions sur des êtres vivants qui possèdent un langage, aussi différent du nôtre qu'on voudra, mais qui serait traduisible dans notre langage, donc des êtres avec lesquels nous pourrions communiquer...
@@ -226,7 +222,6 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 ---
 <!-- _class: partie -->
 
-<br><br><br><br><br>
 
 # 2. Les origines de la culture
 
@@ -350,7 +345,7 @@ Aidez-vous des deux documents vidéos ci-dessous pour répondre à la question :
 ---
 <!-- _class: partie -->
 
-<br><br><br><br><br>
+
 
 # 3. *Homo faber* ou *Zoon politikon* ?
 
