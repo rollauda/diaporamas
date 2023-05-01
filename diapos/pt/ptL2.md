@@ -48,8 +48,8 @@ style: |
 
 ## Emmanuel Kant, *Logique*
 
-1. question 1
-2. question 2
+1. Expliquez le sens des trois premières questions
+2. Pourquoi « *Les trois premières questions se rapportent à la dernière* »  ?
 
 ---
 <!-- _class: texte -->
@@ -60,8 +60,8 @@ style: |
 >
 ###### Peter Sloterdijk, *La domestication de l'être*
 
-1. question 1
-2. question 2
+1. Expliquez l'expression « *L'homme descend de la pierre* ».
+2. Expliquez ce qu'est « *le principe de la technique* ».
 
 --- 
 ![bg left](../../assets/img/2001.jpeg)
@@ -89,7 +89,7 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 
 ---
 
-## Complément : genre, espèce, individu
+## Complément : *genre, espèce, individu*
 
 > « Il se trouve plus de différence de tel homme à tel homme que de tel animal à tel homme » 
 >**Montaigne, *Pensées.***
@@ -124,7 +124,8 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 ## 2.1. Rousseau : l'homme naturel et l'homme artificiel
 <br>
 
-### Questions `(texte diapositive suivante)`
+### Questions 
+`(texte dans la fiche-leçon et dans la diapositive suivante)`
 
 <br>
 
@@ -142,7 +143,7 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 <!-- _class: texte -->
 
 
->Comment l'homme viendra-t-il à bout de se voir tel que l'a formé la nature, à travers tous les changements que la succession des temps et des choses a dû produire dans sa constitution originelle, et de démêler ce qu'il tient de son propre fonds d'avec ce que les circonstances et ses progrès ont ajouté ou changé à son état primitif ? Semblable à la statue de Glaucus que le temps, la mer et les orages avaient tellement défigurée qu'elle ressemblait moins à un dieu qu'à une bête féroce, l'âme humaine altérée au sein de la société par mille causes sans cesse renaissantes, par l'acquisition d'une multitude de connaissances et d'erreurs, par les changements arrivés à la constitution des corps, et par le choc continuel des passions, a, pour ainsi dire, changé d'apparence au point d'être presque méconnaissable ; 
+>Comment l'homme viendra-t-il à bout de se voir tel que l'a formé la nature, à travers tous les changements que la succession des temps et des choses a dû produire dans sa constitution originelle, et de démêler ce qu'il tient de son propre fonds d'avec ce que les circonstances et ses progrès ont ajouté ou changé à son état primitif ? Semblable à la statue de Glaucus que le temps, la mer et les orages avaient tellement défigurée qu'elle ressemblait moins à un dieu qu'à une bête féroce, l'âme humaine altérée au sein de la société par mille causes sans cesse renaissantes, par l'acquisition d'une multitude de connaissances et d'erreurs, par les changements arrivés à la constitution des corps, et par le choc continuel des passions, a, pour ainsi dire, changé d'apparence au point d'être presque méconnaissable ; 
 
 `... suite →`
 
@@ -158,7 +159,9 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 ---
 
 ## 1.2. Lévi-Strauss : la distinction nature / culture
-### Questions `(texte diapositive suivante)`
+### Questions 
+
+`(texte dans la fiche-leçon et dans la diapositive suivante)`
 
 <u> **Première partie** </u>
 
@@ -177,18 +180,22 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 
 ---
 <!-- _class: texte -->
-## Texte n°1
+## Première partie
 
-**Claude Lévi- Strauss -** [...] La nature, c'est tout ce qui est en nous par hérédité biologique ; la culture, c'est au contraire, tout ce que nous tenons de la tradition externe. [...] la culture ou la civilisation, c'est l'ensemble des coutumes, des croyances, des institutions telles que l'art, le droit, la religion, les techniques de la vie matérielle, en un mot, toutes les habitudes ou aptitudes apprises par l'homme en tant que membre d'une société. Il y a donc là deux grands ordres de faits. L'un grâce auquel nous tenons à l'animalité par tout ce que nous sommes, du fait même de notre naissance et des caractéristiques que nous ont léguées nos parents et nos ancêtres, lesquelles relèvent de la biologie, de la psychologie quelquefois ; et d'autre part, tout cet univers artificiel qui est celui dans lequel nous vivons en tant que membres d'une société. 
+<br>
+
+>**Claude Lévi- Strauss -** [...] La nature, c'est tout ce qui est en nous par hérédité biologique ; la culture, c'est au contraire, tout ce que nous tenons de la tradition externe. [...] la culture ou la civilisation, c'est l'ensemble des coutumes, des croyances, des institutions telles que l'art, le droit, la religion, les techniques de la vie matérielle, en un mot, toutes les habitudes ou aptitudes apprises par l'homme en tant que membre d'une société. Il y a donc là deux grands ordres de faits. L'un grâce auquel nous tenons à l'animalité par tout ce que nous sommes, du fait même de notre naissance et des caractéristiques que nous ont léguées nos parents et nos ancêtres, lesquelles relèvent de la biologie, de la psychologie quelquefois ; et d'autre part, tout cet univers artificiel qui est celui dans lequel nous vivons en tant que membres d'une société. 
 
 ---
 <!-- _class: texte -->
 
-## Texte n°2
+## Deuxième partie
 
-<br><br>
+<br>
 
 >Pendant très longtemps, on a pensé, et beaucoup d'ethnologues pensent peut-être encore que c'est la présence d'objets manufacturés. On a défini l'homme comme “homo faber” : fabricateur d'outils, en voyant dans ce caractère la marque même de la culture. J'avoue que je ne suis pas d'accord et que l'un de mes buts essentiels a toujours été de placer la ligne de démarcation entre culture et nature, non dans l'outillage, mais dans le langage articulé. C'est là vraiment que le saut se fait ; 
+
+<br>
 
 `... suite →`
 
@@ -272,7 +279,8 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 
 <br>
 
-### Questions `(texte diapositive suivante)`
+### Questions 
+`(texte dans la fiche-leçon et dans la diapositive suivante)`
 
 <br>
 
@@ -354,9 +362,11 @@ Aidez-vous des deux documents vidéos ci-dessous pour répondre à la question :
 <br> <br>
 
 ### Qu'est-ce que la technique ?
-La technique est la faculté de manier et créer des outils pour obtenir un résultat. Le mot vient du grec `technè` signifiant fabriquer, produire, construire. 
 
-Deux domaines relèvent de la technè : `l’art` et `l’artisanat`. La différence ne sera introduite qu’au XVIIe siècle, lorsque l’on décide d’instaurer une hiérarchisation entre les productions qui visent l’utile et celles qui visent le beau. C’est pourquoi, dans les textes antiques, le terme d’art retenu pour la traduction de technè est à comprendre au sens large d’art et de technique.
+<br>
+
+```La technique est la faculté de manier et créer des outils pour obtenir un résultat. Le mot vient du grec `technè` signifiant fabriquer, produire, construire.```
+`Deux domaines relèvent de la technè : l’art et l’artisanat. La différence ne sera introduite qu’au XVIIe siècle, lorsque l’on décide d’instaurer une hiérarchisation entre les productions qui visent l’utile et celles qui visent le beau. C’est pourquoi, dans les textes antiques, le terme d’art retenu pour la traduction de technè est à comprendre au sens large d’art et de technique.`
 
 ---
 <!-- _class: texte -->
@@ -376,20 +386,20 @@ Deux domaines relèvent de la technè : `l’art` et `l’artisanat`. La différ
 ---
 
 ## 3.2. Le *Zoon politikon*
-
+<br>
 
 ### Qu'est-ce que la justice ?
-Il faut distinguer la justice comme `institution`, comme `idéal` et comme `vertu`. 
 
-Comme `institution`, elle désigne l’ensemble des juridictions (du latin juris, justice et dicere, dire) qui rendent la justice : les tribunaux, les cours d’appel, etc. 
-Comme `idéal`, elle désigne une norme morale supérieure aux lois des États et elle dit ce qui doit être. 
-Comme `vertu`, elle est la disposition à agir selon cet idéal de justice. 
+`Il faut distinguer la justice comme INSTITUTION, comme IDÉAL et comme VERTU. 
+Comme INSTITUTION, elle désigne l’ensemble des juridictions (du latin juris, justice et dicere, dire) qui rendent la justice : les tribunaux, les cours d’appel, etc. 
+Comme IDÉAL, elle désigne une norme morale supérieure aux lois des États et elle dit ce qui doit être. 
+Comme VERTU, elle est la disposition à agir selon cet idéal de justice. 
+La notion de justice relève donc à la fois du JURIDIQUE, du POLITIQUE et du MORAL.`
 
-La notion de justice relève donc à la fois du `juridique`, du `politique` et du `moral`.
-
+<br>
 <hr>
 
-`"ZOON POLITIKON" en grec signifie "ANIMAL POLITIQUE" en français.`
+"ZOON POLITIKON" en grec signifie "ANIMAL POLITIQUE" en français.
 
 ---
 <!-- _class: texte -->
