@@ -1,0 +1,81 @@
+/*!
+ * Marp / Marpit Uncover Custom theme
+ *
+ * @theme cours-uncover
+ * @author Rolland Auda from Kazuki Tanaka (tk-aria)
+ * @fittingCode false
+ */
+
+ @import 'uncover';
+
+ /* ------------------- général --------------------------*/
+
+ section {
+    font-size: 25pt;
+    justify-content: normal;
+    padding: 40px;
+    text-align: left;
+}
+
+blockquote {
+    background: #FFFACD;
+    border-left: 8px solid #d1bf9d;
+    font-family: "Fira Sans Light";
+    color: #6c6c6c; 
+    font-size: 20pt;
+    text-align: left;
+}
+
+  blockquote:before{
+    content: unset;
+  }
+  blockquote:after{
+    content: unset;
+  }
+
+  ul,
+  ol {
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  
+ /* ------------------- couv -----------------------------*/
+
+ section.couv {
+    justify-content: center;
+    text-align: center;
+    color: #F5FFFA;
+    background-color: #556B2F;
+    font-size: 35px
+  }
+
+  section.couv h1 {
+    border-bottom: 1px solid rgb(0, 0, 0);
+    font-size: 4em;
+  }
+  
+  section.couv h2 {
+    font-weight: 200;
+    font-size: 2.5em;
+  }
+  
+  section.couv h3,
+  section.couv h4,
+  section.couv h5 {
+    font-size: 18pt;
+  }
+
+/* ------------------- texte -----------------------------*/
+section.texte {
+    --background-color: #6a2bc8;
+    --strong-color: rgb(182, 112, 27);
+  }
+  
+  section.cite p {
+    color: #fffbfe;
+  }
+  
+  section.cite strong {
+    color: #f87ca1;
+  }

@@ -1,0 +1,165 @@
+/*!
+ * Marp / Marpit Uncover Custom theme
+ *
+ * @theme pt-gaia
+ * @author Rolland Auda from Kazuki Tanaka (tk-aria)
+ * @fittingCode false
+ */
+
+ @import 'gaia';
+
+ /* ------------------- général --------------------------*/
+
+ section {
+    font-size: 25pt;
+    justify-content: normal;
+    padding: 40px;
+    text-align: left;
+}
+
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  border-bottom: solid 4px #556B2F;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: bold;
+  border-bottom: solid 2px #739a2e;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: left;
+}
+
+blockquote {
+    background: #FFFACD;
+    border-left: 6px solid #d1bf9d;
+    font-family: "Fira Sans Light";
+    color: #6c6c6c; 
+    font-size: 21pt;
+    text-align: left;
+}
+
+blockquote:before{
+    content: unset;
+  }
+
+  blockquote:after{
+    content: unset;
+  }
+  
+code {
+    font-size: 23px;
+    background: #d1bf9d;
+    color: black;
+}
+
+
+ /* ------------------- couv -----------------------------*/
+
+ section.couv {
+    justify-content: center;
+    text-align: center;
+    color: #F5FFFA;
+    background-color: #556B2F;
+    font-size: 35px
+  }
+
+  section.couv h1 {
+    border-bottom: 1px solid rgb(242, 160, 8);
+    font-size: 4em;
+  }
+  
+  section.couv h2 {
+    font-weight: 200;
+    font-size: 2.5em;
+    border-bottom: solid 0px rgb(215, 140, 0);
+  }
+  
+  section.couv h3,
+  section.couv h4,
+  section.couv h5 {
+    font-size: 18pt;
+    text-align: center;
+  }
+
+ /* ------------------- titre partie -----------------------------*/
+
+ section.partie {
+  justify-content: center;
+  text-align: center;
+}
+
+ section.partie h1 {
+  font-size: 1.8em;
+  color: grey;
+  border-bottom: solid 4px #556B2F;
+  padding: 10px;
+}
+
+/* ------------------- texte -----------------------------*/
+section.texte {
+  font-family: "Fira Sans Light";
+  font-weight: initial;
+  font-size: 20pt;
+  }
+  
+section.texte p {
+  color: #552b00;
+  text-align: left;
+  }
+
+
+section.texte h1 {
+  font-family: "Lato";
+  font-size: 1.2em;
+  color: #643201;
+  border-bottom: 0px;
+  text-align: center;
+  }
+
+  section.texte h2,
+  section.texte h3,
+  section.texte h4,
+  section.texte h5,
+  section.texte h6 {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: right;
+    color: #723900;
+    border-bottom: solid 0px;
+  }
+
+
+
+section.texte blockquote:before {
+  content: unset;
+}
+
+section.texte blockquote:after{
+  content: unset;
+}
+
+/* ------------------- vidéo -----------------------------*/
+
+section.video {
+  justify-content: center;
+  text-align: center;
+  color: #F5FFFA;
+  background-color: black;
+  }
+
+  section.video h2,
+  section.video h3,
+  section.video h4 {
+    font-size: 24pt;
+    text-align: center;
+  }
