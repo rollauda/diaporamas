@@ -71,21 +71,38 @@ code {
     text-align: center;
     color: #F5FFFA;
     background-color: #556B2F;
-    font-size: 35px
+    padding: 0px;
+    font-size: 35px;
   }
 
   section.couv h1 {
     border-bottom: 1px solid rgb(242, 160, 8);
-    font-size: 4em;
+    font-size: 3.5em;
+    padding: 20px;
   }
   
   section.couv h2 {
     font-weight: 200;
     font-size: 2.5em;
     border-bottom: solid 0px rgb(215, 140, 0);
+    padding: 10px;
   }
   
-  section.couv h3,
+  section.couv h3 {
+    font-weight: 200;
+    font-size: 0.9em;
+    text-align: center;
+    color: #556B2F;
+    background-color: #FFFACD;
+    padding: 5px;
+    margin-left: -40px;
+    margin-right: -40px;
+    margin-top: -40;
+    margin-bottom: -40;
+    position: relative;
+    padding: 10px;
+  }
+
   section.couv h4,
   section.couv h5 {
     font-size: 18pt;

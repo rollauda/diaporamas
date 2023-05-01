@@ -1,10 +1,7 @@
 {
     "markdown.marp.themes": [
-      "./themes/plato.css",
       "./themes/moja-teal.css",
       "./themes/freud.css",
-      "./themes/perso.css",
-      "./themes/cours.css",
       "./themes/pt-gaia.css",
       "./themes/hlp-gaia.css",
     ]

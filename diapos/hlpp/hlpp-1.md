@@ -1,7 +1,6 @@
 ---
 marp: true
-theme: gaia
-# header: 'Spé HLP philo 1ère - Introduction'
+theme: hlp-gaia
 size: 4:3
 style: |
   section {
@@ -9,55 +8,55 @@ style: |
     --color-foreground: #333;
     --color-highlight: #f96;
     --color-dimmed: #888;
-    font-size: 27px
+    font-size: 25px
   }
-# <!-- class: gaia --> après le yml = thème bleu
 
-#changer ces <styles>
+# <!-- _class: couv -->
+# <!-- _class: partie -->
+# <!-- _class: texte -->
+# <!-- _class: video -->
+
 ---
 
+<!-- _class: couv -->
 
-<!--
-_backgroundColor: #708090
-_color: #F5FFFA
--->
+### THÈME 1 : LES POUVOIRS DE LA PAROLE
 
 
-## HLP philosophie   <!-- fit -->
-# Spécialité Première  <!-- fit -->
+# Leçon 1
 
-<br>
+## Pourquoi parle-t-on ?
 
-## THÈME 1 : Les pouvoirs  de la parole   <!-- fit -->
-## LEÇON 1 : Pourquoi parle-t-on ? <!-- fit -->
+<br><br>
 
-<br>
-
-<br>
-
-*Diaporama : naviguer avec **← →***
+#### navigation : ← →
 
 ---
 
 <!-- paginate: true -->
 
-### Pourquoi parle-t-on ? Analyse de la question
+## Pourquoi parle-t-on ? Analyse de la question
+
+<br>
 
 * **"ON"** ?
   * Qui ?
-  * Tous les animaux, où seulement les êtres humains ?
+  * Tous les animaux, où seulement les êtres humains ? 
+
 * **"PARLE"** ?
   * Qu'est-ce que parler ?
   * = Communiquer des informations, ou exprimer des idées ?
+
 * **"POURQUOI"** ?
   * Quelles sont les fonctions du langage ? À quoi sert-il ?
+  <br>
 * **=> PROBLÉMATIQUE :** La parole distingue-t-elle l’être humain des autres animaux ? À quoi nous sert la parole ? Quelles sont les fonctions du langage ?
 
 
 ---
 
 ![bg left width:450px](../../assets/img/quiparle.png)
-
+<br>
 ## 1. Qui parle ?
 
 <br>
@@ -90,6 +89,8 @@ table th:nth-of-type(4) {
 
  ### 1.1. Quelques éléments de linguistique
 
+ <br>
+
 |<div style="width:160px">Langage</div>|<div style="width:160px">Langue</div>|<div style="width:160px">Voix</div>|<div style="width:160px">Parole</div>|
 |:-------------:|:------------:|:-------------:|:-------------:|
 | **Capacité à exprimer ses pensées à autrui à l'aide de signes (mots, gestes, etc.).** <br> <br>   <br> Le langage est une faculté universelle, propre à tous les membres de l'espèce humaine.  | **Système de signes propre à une société** <br>  <br>  (ex: le Quechua) ou un groupe de personnes (ex: la Langue des signes). <br>   <br> Le langage est universel, mais il contient un très grand nombre de langues. | **Capacité physiologique à émettre des sons.**  <br> <br> Le larynx est l'organe de la parole : il contient les *cordes vocales* qui vibrent au passage de l'air et permettent d'articuler des sons.|  **Capacité à s’exprimer avec des mots.** <br> <br>   <br>   <br>   <br>   <br>   On peut être sans voix  (ex: les muets) mais transcrire une parole à l’aide de signes où à l’écrit. | 
@@ -101,8 +102,9 @@ _backgroundColor: white
 -->
 
 ![bg right width:450px](../../assets/img/signifiant.png)
+<br>
 
-#### Signifiant et signifié
+### Signifiant et signifié
 
 Le langage est constitué de `SIGNES` (par exemple des mots) qui désignent des choses, et qui sont différents d’une langue à l’autre. 
 
@@ -115,7 +117,9 @@ Le `SIGNE` se décompose en une face matérielle, le `SIGNIFIANT`, et une face m
 _backgroundColor: white
 -->
 
-#### Explication
+<br><br><br>
+
+### Explication
 
 1) Le `SIGNIFIANT` est l'enveloppe matérielle du signe, par exemple le mot écrit, ou parlé grâce à la voix, ou exprimé en langue des signes : ARBRE.
 2) Le `SIGNIFIÉ` est l’idée ou le concept d'arbre (l'arbre dans mon esprit).
@@ -131,10 +135,11 @@ _backgroundColor: white
 ![bg width:860px](../../assets/img/signifiant2.png)
 
 ---
+<br>
 
 ### 1.2. Les animaux non-humains parlent-ils ?
 
-<br>
+<br><br>
 
 * Le cri d’un animal est-il un mot, donc un signe ?
 * La plupart du temps, il s’agit plutôt d’un signal : l’animal ressent quelque chose (une douleur, un désir), il le communique aux autres (un cri, un chant).
@@ -143,15 +148,17 @@ _backgroundColor: white
 
 
 ---
+<br>
 
 #### LANGAGE ≠ COMMUNICATION
 
-<br>
+<br> 
 
 * **Langage**
   * Exprime une idée à l'aide de `SIGNES`. Exemples : une phrase, un poème
   * Provoque une `RÉPONSE`. Ex : une conversation, une émotion.
   * **= DIALOGUE : émetteur → récepteur → émetteur, etc.**
+  <br>
 * **Communication**
   * Transmet un `SIGNAL`. Ex : un cri, ou une publicité
   * Provoque une `RÉACTION`. Ex : de l'aide, un achat
@@ -159,13 +166,11 @@ _backgroundColor: white
 
 ---
 
-<!--
-_backgroundColor: black
-_color: #F5FFFA
--->
+<!-- _class: video -->
+
 #### Extrait du documentaire “Les animaux pensent-ils ?”
 
-<br>
+<br><br>
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/YQZPqvEJtEw?start=772" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -190,6 +195,8 @@ table th:nth-of-type(4) {
 </style>
 
 ## 2. Pourquoi les êtres humains parlent-ils ?
+
+<br>
 
 #### *Quelle est la fonction principale du langage ?*
 
@@ -222,9 +229,11 @@ table th:nth-of-type(4) {
     width: 25%;
 }
 </style>
+<br>
 
 2. Selon vous, lesquels de ces 4 philosophes considèrent que seuls les êtres humains parlent ? Lequel pense le contraire ? Justifiez votre réponse.
 
+<br>
 
  | Utilisez la structure ci-dessous| 
 |:-------------|
@@ -232,5 +241,4 @@ table th:nth-of-type(4) {
   A affirme en effet que…  etc.  <br> B, de son côté, pense que… etc.  <br> Enfin, C montre que… etc.
 D pense que les animaux sont eux aussi capables de parler. 
 Il explique que…  etc. | 
-
 

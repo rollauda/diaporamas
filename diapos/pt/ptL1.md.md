@@ -19,24 +19,15 @@ style: |
 ---
 
 <!-- _class: couv -->
-
+### PHILOSOPHIE TERMINALE TRONC COMMUN
 # Leçon 1
 ## La vérité se <br> cache-t-elle ?
 
-<br><br>
-
-#### navigation : ← →
 
 ---
 <!-- paginate: true -->
 <!-- _class: partie -->
 
-
-![bg](../../assets/img/caverne-harambat.jpeg)
-
----
-
-<!-- paginate: true -->
 
 <style>
   {text-align: left;}
@@ -50,5 +41,9 @@ style: |
 
 ![bg left:50% w:510](../../assets/img/platon.jpeg)
 
+
+---
+
+![bg](../../assets/img/caverne-harambat.jpeg)
 
 ---

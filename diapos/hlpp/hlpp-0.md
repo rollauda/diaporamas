@@ -1,7 +1,6 @@
 ---
 marp: true
-theme: gaia
-# header: 'Spé HLP philo 1ère - Introduction'
+theme: hlp-gaia
 size: 4:3
 style: |
   section {
@@ -11,27 +10,25 @@ style: |
     --color-dimmed: #888;
     font-size: 25px
   }
-# <!-- class: gaia --> après le yml = thème bleu
 
-#changer ces <styles>
+# <!-- _class: couv -->
+# <!-- _class: partie -->
+# <!-- _class: texte -->
+# <!-- _class: video -->
+
 ---
 
+<!-- _class: couv -->
 
-
-<!--
-_backgroundColor: #708090
-_color: #F5FFFA
--->
-
-## HLP Philosophie  <!-- fit -->
-# Spécialité Première  <!-- fit -->
-# Introduction  <!-- fit -->
-
+### HLP SPÉCIALITÉ PREMIÈRE
 <br>
 
-<br>
+# Introduction
 
-*Diaporama : naviguer avec **← →***
+
+<br><br><br><br><br>
+
+#### navigation : ← →
 
 ---
 
@@ -40,7 +37,7 @@ _color: #F5FFFA
 
 ## 1. Programme de l’année
 
-
+<br>
 
 * **THÈME 1 : LES POUVOIRS DE LA PAROLE**
 *Période : Antiquité, Moyen-âge*  
@@ -49,6 +46,8 @@ _color: #F5FFFA
   * **Axe n°1** : L’art de la parole
   * **Axe n°2** : L’autorité de la parole
   * **Axe n°3** : Les séductions de la parole
+
+<br>
 
 * **THÈME 2 : LES REPRÉSENTATIONS DU MONDE**
 *Période : Renaissance, Lumières*  
@@ -78,51 +77,50 @@ _color: #F5FFFA
 [→ Fiche "Philosophie, sophistique et rhétorique](https://github.com/rollauda/hlp/blob/main/assets/pdf/Philosophie_rh%C3%A9torique.pdf)
 
 
-![width:800px](../../assets/img/agora.jpeg)
+![width:800px](../assets/img/agora.jpeg)
 
 ---
 
 - **Athènes au Ve s. avant J.-C.**
 
   * **Contexte historique** : apogée de la puissance d'Athènes
-  * **Contexte institutionnel** : l'invention de la démocratie
-  ![width:450px](../../assets/img/athenes.gif)
+  * **Contexte institutionnel** : l'invention de la démocratie <br>
+  ![width:450px](../assets/img/athenes.gif)
   * **La place de la parole** : importance de la rhétorique
 * **Naissance de la philosophie**
 
 ---
-### 3. Socrate, le premier philosophe
+## 3. Socrate, le premier philosophe
 
-![bg right width:450px](../../assets/img/socrate.jpeg)
+![bg right](../assets/img/socrate.jpeg)
 
 <br>
 
-* Qui étaient Socrate et Platon ?
+* Qui étaient Socrate et Platon ?
 * Comment et pourquoi Socrate a-t-il été condamné à mort ?
 * **Extrait de l'Apologie de Socrate (Platon) :** 
-→ lien vers la fiche-leçon
+→ [lien vers la fiche-leçon](lien)
 
 ---
-<!--
-_backgroundColor: black
-_color: #F5FFFA
--->
+<!-- _class: video -->
 #### Qu'est-ce que l'oracle de Delphes ?
 <br>
 <br>
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Wvdy0UQNO9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-#### Lecture de l'extrait de *L'apologie de Socrate* par Denis Podalydès 
+## Lecture de l'extrait de  *L'apologie de Socrate* <br> *par Denis Podalydès*
 
-<audio src="../../assets/audio/Socrate.mp3" controls preload></audio>
+<br>
 
-![width:420px](../../assets/img/Apologie_Socrate.png)
+<audio src="../assets/audio/Socrate.mp3" controls preload></audio>
+
+![width:420px](../assets/img/Apologie_Socrate.png)
 
 
 ---
 
-#### Lire le texte et répondre aux questions
+## Lire le texte et répondre aux questions
 
 <br>
 
@@ -131,10 +129,7 @@ _color: #F5FFFA
 3. En quoi la dernière phrase du texte pourrait être une définition de la philosophie ?
 
 ---
-<!--
-_backgroundColor: black
-_color: #F5FFFA
--->
+<!-- _class: video -->
 #### Complément : émision Arte TV sur Socrate
 <br>
 <br>
