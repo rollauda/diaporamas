@@ -1,11 +1,15 @@
-# Philosophie
+→ [retour accueil](https://rollauda.github.io)
+→ [leçons philo](https://rollauda.github.io/pt2023)
+→ [leçons HLP](https://rollauda.github.io/hlp)
+
+## Philosophie
 
 | Leçon          | Lien vers diaporama | 
 | :------------------- | :-------------------------- | 
 | L1 - La vérité se cache-t-elle ?   |[ptL1] |
 | L2 - Peut-on définir l'humain ?   | [ptL2](https://rollauda.github.io/marp/diapos/pt/ptL2.html) |
 
-# Spé HLP philo 1ères
+## Spé HLP philo 1ères
 
 | Leçon          | Lien vers diaporama | 
 | :------------------- | :-------------------------- | 
