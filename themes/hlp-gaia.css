@@ -66,6 +66,14 @@ code {
     font-weight: bold;
 }
 
+ul li { 
+  line-height: 1em; 
+}
+
+ol { 
+  line-height: 1em; 
+}
+
 
  /* ------------------- couv -----------------------------*/
 

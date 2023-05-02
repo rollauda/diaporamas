@@ -37,11 +37,11 @@ style: |
 ---
 <!-- _class: texte -->
 
-# Texte n°1
+# Les 4 questions de la philosophie
 
 > « Le domaine de la philosophie [...] se ramène aux questions suivantes :  
 1 - Que puis-je savoir ?
-2-  Que dois-je faire ?
+2 -  Que dois-je faire ?
 3 - Que m’est-il permis d’espérer ?
 4 - Qu’est-ce que l’homme ?
 À la première question répond la métaphysique, à la seconde la morale, à la troisième la religion, à la quatrième l’anthropologie. Mais, au fond, on pourrait ramener tout à l’anthropologie, puisque les trois premières questions se rapportent à la dernière. » 
@@ -54,7 +54,7 @@ style: |
 ---
 <!-- _class: texte -->
 
-# Texte n°2
+# D'où descend l'homme ?
 
 > « L’homme (…) descend de la pierre (…), dans la mesure où nous nous entendons pour considérer que c’est l’usage de la pierre qui a inauguré la prototechnique humaine. En tant que premier technologue de la pierre, jeteur, opérateur d’un instrument à frapper, le pré-sapiens (…) est l’homme à son commencement. Ici s’exprime pour la première fois le principe de la technique : le fait d’émanciper l’être vivant de la contrainte du contact corporel avec des présences physiques dans l’environnement. Elle permet à l’homme en devenir de remplacer le contact physique direct par le contact de la pierre. » 
 >
