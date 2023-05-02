@@ -5,7 +5,7 @@
 | Leçon          | Lien vers diaporama | 
 | :------------------- | :-------------------------- | 
 | L1 - La vérité se cache-t-elle ?   |[ptL1] |
-| L2 - Peut-on définir l'humain ?   | [ptL2](https://rollauda.github.io/marp/diapos/pt/ptL2.html) |
+| L2 - Peut-on définir l'humain ?   | [ptL2](https://rollauda.github.io/diaporamas/diapos/pt/ptL2.html) |
 
 ## Spé HLP philo 1ères
 
