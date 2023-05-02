@@ -11,8 +11,8 @@
 
 | Leçon  Premières | Lien vers diaporama |  Leçon  Terminales | Lien vers diaporama | 
 | :---------- | :---------------- |  :---------- | :--------------------- | 
-| L0 - Introduction | [hlpp0] | L0 - Introduction  | [hlpt0] |
-| L1 - Pourquoi parle-t-on ? | [hlpp1] | L1   | [hlpt1]  | 
+| L0 - Introduction | [hlpp0](https://rollauda.github.io/diaporamas/diapos/hlpp/hlpp-0.html) | L0 - Introduction  | [hlpt0] |
+| L1 - Pourquoi parle-t-on ? | [hlpp1](https://rollauda.github.io/diaporamas/diapos/hlpp/hlpp-1.html) | L1   | [hlpt1]  | 
 
 
 
