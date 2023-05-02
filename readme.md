@@ -1,4 +1,4 @@
-**|→** [retour accueil](https://rollauda.github.io) **←|→** [leçons philo](https://rollauda.github.io/pt2023) **←|→** [leçons HLP](https://rollauda.github.io/hlp) **←|**
+| [retour accueil](https://rollauda.github.io) | [leçons philo](https://rollauda.github.io/pt2023) | [leçons HLP](https://rollauda.github.io/hlp) |
 
 ## Philosophie
 
