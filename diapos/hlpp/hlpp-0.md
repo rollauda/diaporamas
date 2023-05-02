@@ -77,7 +77,7 @@ style: |
 [→ Fiche "Philosophie, sophistique et rhétorique](https://github.com/rollauda/hlp/blob/main/assets/pdf/Philosophie_rh%C3%A9torique.pdf)
 
 
-![width:800px](../assets/img/agora.jpeg)
+![width:800px](../../assets/img/agora.jpeg)
 
 ---
 
@@ -85,14 +85,14 @@ style: |
 
   * **Contexte historique** : apogée de la puissance d'Athènes
   * **Contexte institutionnel** : l'invention de la démocratie <br>
-  ![width:450px](../assets/img/athenes.gif)
+  ![width:450px](../../assets/img/athenes.gif)
   * **La place de la parole** : importance de la rhétorique
 * **Naissance de la philosophie**
 
 ---
 ## 3. Socrate, le premier philosophe
 
-![bg right](../assets/img/socrate.jpeg)
+![bg right](../../assets/img/socrate.jpeg)
 
 <br>
 
@@ -103,9 +103,11 @@ style: |
 
 ---
 <!-- _class: video -->
+
 #### Qu'est-ce que l'oracle de Delphes ?
 <br>
 <br>
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Wvdy0UQNO9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
@@ -113,9 +115,9 @@ style: |
 
 <br>
 
-<audio src="../assets/audio/Socrate.mp3" controls preload></audio>
+<audio src="../../assets/audio/Socrate.mp3" controls preload></audio>
 
-![width:420px](../assets/img/Apologie_Socrate.png)
+![width:420px](../../assets/img/Apologie_Socrate.png)
 
 
 ---

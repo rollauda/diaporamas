@@ -66,7 +66,8 @@ style: |
 --- 
 ![bg left](../../assets/img/2001.jpeg)
 ## Travail facultatif (présentation orale en classe) 
-[→ voir le travail sur le site des cours](lien)
+
+<a href="https://rollauda.github.io/pt2023/docs/Le%C3%A7on%202/travaux.html" target="_blank">→ voir le travail sur le site des cours</a>
 
 Présentez à la classe la scène introductive de "*2001, l'odysée de l'espace*" en répondant à la question : 
 
@@ -142,6 +143,7 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 ---
 <!-- _class: texte -->
 
+<br>
 
 >Comment l'homme viendra-t-il à bout de se voir tel que l'a formé la nature, à travers tous les changements que la succession des temps et des choses a dû produire dans sa constitution originelle, et de démêler ce qu'il tient de son propre fonds d'avec ce que les circonstances et ses progrès ont ajouté ou changé à son état primitif ? Semblable à la statue de Glaucus que le temps, la mer et les orages avaient tellement défigurée qu'elle ressemblait moins à un dieu qu'à une bête féroce, l'âme humaine altérée au sein de la société par mille causes sans cesse renaissantes, par l'acquisition d'une multitude de connaissances et d'erreurs, par les changements arrivés à la constitution des corps, et par le choc continuel des passions, a, pour ainsi dire, changé d'apparence au point d'être presque méconnaissable ; 
 
@@ -149,8 +151,8 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 
 ---
 <!-- _class: texte -->
-<br><br>
-`← ... suite` 
+<br><br><br>
+`← suite...` 
 
 > et l'on n'y retrouve plus, au lieu d'un être agissant toujours par des principes certains et invariables, au lieu de cette céleste et majestueuse simplicité dont son auteur l'avait empreinte, que le difforme contraste de la passion qui croit raisonner et de l'entendement en délire.
 
@@ -182,8 +184,6 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 <!-- _class: texte -->
 ## Première partie
 
-<br>
-
 >**Claude Lévi- Strauss -** [...] La nature, c'est tout ce qui est en nous par hérédité biologique ; la culture, c'est au contraire, tout ce que nous tenons de la tradition externe. [...] la culture ou la civilisation, c'est l'ensemble des coutumes, des croyances, des institutions telles que l'art, le droit, la religion, les techniques de la vie matérielle, en un mot, toutes les habitudes ou aptitudes apprises par l'homme en tant que membre d'une société. Il y a donc là deux grands ordres de faits. L'un grâce auquel nous tenons à l'animalité par tout ce que nous sommes, du fait même de notre naissance et des caractéristiques que nous ont léguées nos parents et nos ancêtres, lesquelles relèvent de la biologie, de la psychologie quelquefois ; et d'autre part, tout cet univers artificiel qui est celui dans lequel nous vivons en tant que membres d'une société. 
 
 ---
@@ -203,7 +203,7 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 <!-- _class: texte -->
 
 
-`← ... suite` 
+`← suite... ` 
 >... supposez que nous rencontrions, sur une planète inconnue, des êtres vivants qui fabriquent des outils, nous ne serions pas sûrs pour autant qu'ils relèvent de l'ordre de l'humanité. En vérité, nous en rencontrons sur notre globe, puisque certains animaux sont capables, jusqu'à un certain point, de fabriquer des outils ou des ébauches d'outils. Pourtant, nous ne croyons pas qu'ils aient accompli le passage de la nature à la culture. Mais imaginez que nous tombions sur des êtres vivants qui possèdent un langage, aussi différent du nôtre qu'on voudra, mais qui serait traduisible dans notre langage, donc des êtres avec lesquels nous pourrions communiquer...
 
 ## Georges Charbonnier, *Entretiens avec Claude Lévi- Strauss* (2010) 
@@ -231,11 +231,14 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 # 2. Les origines de la culture
 
 ---
-![bg width:75% right](../../assets/img/promethee.jpeg)
+![bg right](../../assets/img/promethee.jpeg)
 
 ## 2.1. Platon : Prométhée
 
-[(→ lire dans la fiche-leçon)](lien)
+`À lire dans la fiche-leçon`
+
+<br>
+
 1.  Résumez le mythe de Prométhée raconté par Socrate.
 
 2.  “Épiméthée” signifie étymologiquement ; “celui qui réfléchit après avoir agi” ; et “Prométhée” : “le prévoyant, celui qui réfléchit avant d’agir”. Expliquez en quoi le premier symbolise la nature et le second la culture.
@@ -304,14 +307,16 @@ Utilisez des passages de l'extrait pour appuyer vos propos.
 ![bg left](../../assets/img/inherit.jpeg)
 
 ## Travail facultatif : Évolutionnisme *vs* Créationnisme
-[→ voir le travail sur le site des cours](lien)
-
 
 <br>
 
-Aidez-vous des deux documents vidéos ci-dessous pour répondre à la question : 
+<a href="https://rollauda.github.io/pt2023/docs/Le%C3%A7on%202/travaux.html" target="_blank">→ voir le travail sur le site des cours</a>
 
-**Qu'est-ce que le créationnisme et l'évolutionnisme et qu'est-ce qui les oppose ?**
+
+
+Aidez-vous des deux vidéos ci-dessous et de vos recherches pour répondre aux questions : 
+
+**Qu'est-ce que le créationnisme et l'évolutionnisme ? Qu'est-ce qui les oppose ?**
 
 ---
 ## Présentation des deux vidéos
@@ -359,14 +364,14 @@ Aidez-vous des deux documents vidéos ci-dessous pour répondre à la question :
 
 ## 3.1. L'homo faber
 
-<br> <br>
+<br>
 
 ### Qu'est-ce que la technique ?
 
 <br>
 
-```La technique est la faculté de manier et créer des outils pour obtenir un résultat. Le mot vient du grec `technè` signifiant fabriquer, produire, construire.```
-`Deux domaines relèvent de la technè : l’art et l’artisanat. La différence ne sera introduite qu’au XVIIe siècle, lorsque l’on décide d’instaurer une hiérarchisation entre les productions qui visent l’utile et celles qui visent le beau. C’est pourquoi, dans les textes antiques, le terme d’art retenu pour la traduction de technè est à comprendre au sens large d’art et de technique.`
+`La technique est la faculté de manier et créer des outils pour obtenir un résultat. Le mot vient du grec technè signifiant fabriquer, produire, construire.
+Deux domaines relèvent de la technè : l’art et l’artisanat. La différence ne sera introduite qu’au XVIIe siècle, lorsque l’on décide d’instaurer une hiérarchisation entre les productions qui visent l’utile et celles qui visent le beau. C’est pourquoi, dans les textes antiques, le terme d’art retenu pour la traduction de technè est à comprendre au sens large d’art et de technique.`
 
 ---
 <!-- _class: texte -->
@@ -378,7 +383,7 @@ Aidez-vous des deux documents vidéos ci-dessous pour répondre à la question :
 ---
 <!-- _class: texte -->
 
-`← ... suite`
+`← suite... `
 >Si (...), pour définir notre espèce, nous nous en tenions strictement à ce que l'histoire et la préhistoire nous présentent comme la caractéristique constante de l'homme et de l'intelligence, nous ne dirions peut-être pas Homo sapiens, mais Homo faber. En définitive, l'intelligence, envisagée dans ce qui en paraît être la démarche originelle, est la faculté de fabriquer des objets artificiels, en particulier des outils à faire des outils et d'en varier indéfiniment la fabrication.
 
 ## Henri Bergson, L’Évolution créatrice (1907)
@@ -386,11 +391,11 @@ Aidez-vous des deux documents vidéos ci-dessous pour répondre à la question :
 ---
 
 ## 3.2. Le *Zoon politikon*
-<br>
+
 
 ### Qu'est-ce que la justice ?
 
-`Il faut distinguer la justice comme INSTITUTION, comme IDÉAL et comme VERTU. 
+`Il faut distinguer la justice comme INSTITUTION, comme IDÉAL et comme VERTU.   
 Comme INSTITUTION, elle désigne l’ensemble des juridictions (du latin juris, justice et dicere, dire) qui rendent la justice : les tribunaux, les cours d’appel, etc. 
 Comme IDÉAL, elle désigne une norme morale supérieure aux lois des États et elle dit ce qui doit être. 
 Comme VERTU, elle est la disposition à agir selon cet idéal de justice. 
@@ -399,7 +404,7 @@ La notion de justice relève donc à la fois du JURIDIQUE, du POLITIQUE et du MO
 <br>
 <hr>
 
-"ZOON POLITIKON" en grec signifie "ANIMAL POLITIQUE" en français.
+**Dans le texte suivant d'Aristote**, `ZOON POLITIKON` en grec se traduit par `ANIMAL POLITIQUE` en français.
 
 ---
 <!-- _class: texte -->
@@ -414,9 +419,11 @@ La notion de justice relève donc à la fois du JURIDIQUE, du POLITIQUE et du MO
 
 <br> <br>
 
- **À l'aide des documents à disposition [(→ voir sur le site des cours)](lien), répondez aux questions :** 
- 
- **- Y-a-t-il pour la science une différence de nature ou de degré entre l'homme et l'animal ?**
+À l'aide des documents à disposition <a href="https://rollauda.github.io/pt2023/docs/Le%C3%A7on%202/travaux.html" target="_blank">(→ voir le travail sur le site des cours)</a>, répondez aux questions :
 
- **- Pourquoi refuse-t-on souvent aux animaux le statut d'êtres de culture?**
+<br>
+ 
+ **1. Y a-t-il pour la science une différence <u> de nature </u> ou <u> de degré </u> entre l'homme et l'animal ?**
+
+ **2. Pourquoi refuse-t-on souvent aux animaux le statut d'êtres de culture?**
 

@@ -135,11 +135,24 @@ _backgroundColor: white
 ![bg width:860px](../../assets/img/signifiant2.png)
 
 ---
+<style scoped>
+{
+  font-size: 26px;
+}
+</style>
+
+<style scoped>
+ul li { 
+  line-height: 1.4em; 
+}
+</style>
+
 <br>
+
 
 ### 1.2. Les animaux non-humains parlent-ils ?
 
-<br><br>
+<br>
 
 * Le cri d’un animal est-il un mot, donc un signe ?
 * La plupart du temps, il s’agit plutôt d’un signal : l’animal ressent quelque chose (une douleur, un désir), il le communique aux autres (un cri, un chant).
