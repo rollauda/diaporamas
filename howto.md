@@ -1,3 +1,7 @@
+## intégrer diaporama html
+
+`<iframe src="https;//rollauda.github.io/diaporamas/diapos/DOSSIER/FICHIER.html" width="80%" height="450px" frameborder="0"></iframe>`
+
 ## Intégrer un fichier vidéos local
 
 ```
