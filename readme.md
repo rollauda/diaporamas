@@ -1,3 +1,17 @@
+<style>
+.read {
+   background-color: black;
+   color: white;
+}
+a:link
+{
+    color: orange;
+    font-weight:normal;
+}
+</style>
+
+<div class="read">
+
 | [retour accueil](https://rollauda.github.io) | [leçons philo](https://rollauda.github.io/pt2023) | [leçons HLP](https://rollauda.github.io/hlp) |
 
 ## Philosophie
@@ -15,4 +29,4 @@
 | L1 - Pourquoi parle-t-on ? | [hlpp1](https://rollauda.github.io/diaporamas/diapos/hlpp/hlpp-1.html) | L1   | [hlpt1]  | 
 
 
-
+</div>
