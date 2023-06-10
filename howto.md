@@ -12,6 +12,14 @@
 </video>
 ```
 
+## lien target blank 
+
+en html :
+
+```
+<a href="https://rollauda.github.io/pt2023/docs/Le%C3%A7on%202/travaux.html" target="_blank">→ voir le travail sur le site des cours</a>
+```
+
 ## youtube
 
 ```
