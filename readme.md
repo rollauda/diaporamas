@@ -2,15 +2,15 @@
 
 ## Philosophie Terminale tronc commun
 
-| Leçon          | Lien vers diaporama | 
+| Leçons          | Lien vers diaporama | 
 | :------------------- | :-------------------------- | 
 | L1 - L'allégorie de la caverne'   |[ptL1](/diapos/pt/philoL1.html) |
 | L2 -    | [ptL2] |
 
 ## Spécialité HLP philo Terminale
 
-Leçon  Terminales | Lien vers diaporama | 
+Leçons | Lien vers diaporama | 
 | :---------- | :---------------- |  
-| S1L0 - Introduction au semestre 1 | [hlpp-0](/diapos/hlpt/hlpp-0.md) | L0 - Introduction  | [hlpt0] |
-| L1 - | [hlpp1]() | L1   | [hlpt1]  | 
+| S1L0 - Introduction au semestre 1 | [hlpp-0](/diapos/hlpt/hlpp-0.md) | 
+| L1 - | [hlpp-1]() |
 
