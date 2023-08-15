@@ -46,7 +46,7 @@ blockquote {
     border-left: 6px solid grey;
     font-family: "Fira Sans Light";
     color: rgb(83, 83, 83); 
-    font-size: 21pt;
+    font-size: 20pt;
     text-align: left;
     padding: 15px;
 }
@@ -60,7 +60,7 @@ blockquote:before{
   }
   
 code {
-    font-size: 23px;
+    font-size: 22px;
     background: grey;
     color: whitesmoke;
     font-weight: bold;
@@ -171,6 +171,57 @@ section.texte h1 {
   }
 
 
+
+section.texte blockquote:before {
+  content: unset;
+}
+
+section.texte blockquote:after{
+  content: unset;
+}
+
+/* ------------------- textelong -----------------------------*/
+section.texte {
+  font-family: "Fira Sans Light";
+  font-weight: initial;
+  font-size:20pt;
+  }
+  
+section.texte p {
+  color: rgb(83, 83, 83);
+  text-align: justify;
+  }
+
+
+section.texte h1 {
+  font-family: "Lato";
+  font-size: 1.2em;
+  color: rgb(83, 83, 83);
+  border-bottom: 0px;
+  text-align: center;
+  }
+
+  section.texte h2,
+  section.texte h3,
+  section.texte h4,
+  section.texte h5,
+  section.texte h6 {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: right;
+    color: rgb(54, 53, 53);
+    border-bottom: solid 0px;
+  }
+
+  section.texte blockquote {
+    background: rgb(236, 236, 236);
+    border-left: 6px solid grey;
+    font-family: "Fira Sans Light";
+    color: rgb(83, 83, 83); 
+    font-size: 16pt;
+    text-align: justify;
+    padding: 15px;
+}
 
 section.texte blockquote:before {
   content: unset;

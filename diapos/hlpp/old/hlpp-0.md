@@ -14,66 +14,70 @@ style: |
 # <!-- _class: couv -->
 # <!-- _class: partie -->
 # <!-- _class: texte -->
-# <!-- _class: textelong -->
 # <!-- _class: video -->
 
 ---
 
 <!-- _class: couv -->
 
-### SPÉCIALITÉ TERMINALE HLP PHILO
+### HLP SPÉCIALITÉ PREMIÈRE
+<br>
 
-# La recherche <br> de soi
+# Introduction
 
-## INTRODUCTION
+
+<br><br><br><br><br>
+
+#### navigation : ← →
 
 ---
 
 <!-- paginate: true -->
 
 
-## 1. Qu'est-ce que la recherche de soi ?
+## 1. Programme de l’année
 
 <br>
 
-![bg left](../../assets/img/delphes.jpeg)
+* **THÈME 1 : LES POUVOIRS DE LA PAROLE**
+*Période : Antiquité, Moyen-âge*  
 
-> « Connais-toi toi-même. » 
-> (Inscription au fronton du temple de Delphes)
 
-<br> 
+  * **Axe n°1** : L’art de la parole
+  * **Axe n°2** : L’autorité de la parole
+  * **Axe n°3** : Les séductions de la parole
 
-`Comment comprenez-vous cette sentence gravée au fronton du temple de Delphes, où les Athéniens allaient consulter la Pythie, oracle du dieu Apollon ?`
+<br>
 
+* **THÈME 2 : LES REPRÉSENTATIONS DU MONDE**
+*Période : Renaissance, Lumières*  
+
+  * **Axe n°1** : Découverte du monde et rencontre des cultures
+  * **Axe n°2** : Décrire, figurer, imaginer
+  * **Axe n°3** : L’homme et l’animal
 
 ---
-### PLATON, *Alcibiade* (Ve s. av. J.-C.)  
+## 2. Qu’est-ce que la philosophie ? 
+<br>
+
+#### 2.1. Définitions spontanées de la philosophie
 
 <br>
 
-1. Quel problème pose Socrate à propos de la connaissance de soi ? (§1)
-<br />
-2. Expliquez la métaphore du miroir qu'utilise Socrate (§ 3 à §14). A quoi sert-elle ? 
-<br />
-3. Comment peut-on se connaître soi-même ? (§15 à §19)
+**→ Exercice : complétez l'une de ces phrases**
 
-<br />
-
-`Travail de groupe : préparez le brouillon d'une question type bac et présentez votre réponse à l'oral.`
-`1. Question d'interprétation philosophique : Quel type de regard doit-on porter sur soi-même afin de mieux se connaître?`
-`2. Question de réflexion philosophique : La recherche de soi est-elle une entreprise vaine ? [Utiliser les autres textes et vos propres connaissances pour nourrir votre réflexion]`
-
+- La philosophie, c'est…
+- Un philosophe, c'est…
+- Faire de la philosophie, c'est…
+- La philosophie, ça sert à…
 
 ---
 
-<!-- _class: textelong -->
+#### 2.2. La naissance de la philosophie en Grèce
+[→ Fiche "Philosophie, sophistique et rhétorique](https://github.com/rollauda/hlp/blob/main/assets/pdf/Philosophie_rh%C3%A9torique.pdf)
 
-### PLATON, *Alcibiade* (Ve s. av. J.-C.)  
-<br>
 
-*1. Quel problème pose Socrate à propos de la connaissance de soi ? (§1)*
-
-> (1) SOCRATE : De quelle manière pourrions-nous connaître très lucidement ce « soi-même essentiel » ? Il apparaît que si nous le savions, nous nous connaîtrions aussi nous-mêmes. Mais par les dieux, l'heureuse parole de l'inscription delphique que nous rappelions à l'instant, ne l'entendons-nous pas ? [...] Si c'était à notre regard, comme à un homme, que l'inscription s'adressât en lui donnant ce conseil : « Regarde-toi toi-même » ; comment comprendrions-nous le sens de cet avis ? Ne serait-ce pas destiner l'oeil à porter son regard sur un objet dans lequel il se verrait lui-même ?
+![width:800px](../../assets/img/agora.jpeg)
 
 ---
 
