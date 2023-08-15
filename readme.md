@@ -4,13 +4,13 @@
 
 | Leçon          | Lien vers diaporama | 
 | :------------------- | :-------------------------- | 
-| L1 - La vérité se cache-t-elle ?   |[ptL1] |
-| L2 - Peut-on définir l'humain ?   | [ptL2](https://rollauda.github.io/diaporamas/diapos/pt/ptL2.html) |
+| L1 - L'allégorie de la caverne'   |[ptL1](/diapos/pt/philoL1.html) |
+| L2 -    | [ptL2] |
 
-## Spécialité HLP philo
+## Spécialité HLP philo Terminale
 
-| Leçon  Premières | Lien vers diaporama |  Leçon  Terminales | Lien vers diaporama | 
-| :---------- | :---------------- |  :---------- | :--------------------- | 
-| L0 - Introduction | [hlpp0](https://rollauda.github.io/diaporamas/diapos/hlpp/hlpp-0.html) | L0 - Introduction  | [hlpt0] |
-| L1 - Pourquoi parle-t-on ? | [hlpp1](https://rollauda.github.io/diaporamas/diapos/hlpp/hlpp-1.html) | L1   | [hlpt1]  | 
+Leçon  Terminales | Lien vers diaporama | 
+| :---------- | :---------------- |  
+| S1L0 - Introduction au semestre 1 | [hlpp-0](/diapos/hlpt/hlpp-0.md) | L0 - Introduction  | [hlpt0] |
+| L1 - | [hlpp1]() | L1   | [hlpt1]  | 
 

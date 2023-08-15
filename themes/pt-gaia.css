@@ -61,6 +61,8 @@ code {
     font-size: 23px;
     background: #d1bf9d;
     color: black;
+    padding: 7px;
+    text-align: left;
 }
 
 ul li { 
@@ -140,7 +142,7 @@ section.texte {
   
 section.texte p {
   color: #552b00;
-  text-align: left;
+  text-align: justify;
   }
 
 
@@ -171,6 +173,72 @@ section.texte blockquote:before {
 }
 
 section.texte blockquote:after{
+  content: unset;
+}
+
+/* ------------------- textelong -----------------------------*/
+section.textelong {
+  font-family: "Fira Sans Light";
+  font-weight: initial;
+  font-size:18pt;
+  }
+  
+section.textelong p {
+  color: rgb(83, 83, 83);
+  }
+
+
+section.textelong h1 {
+  font-family: "Lato";
+  font-size: 1.2em;
+  color: rgb(83, 83, 83);
+  border-bottom: 0px;
+  text-align: center;
+  }
+
+  section.textelong h2 {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(54, 53, 53);
+    border-bottom: solid 0px;
+  }
+
+  section.textelong h3,
+  section.textelong h4,
+  section.textelong h5,
+  section.textelong h6 {
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: right;
+    color: rgb(54, 53, 53);
+    border-bottom: solid 0px;
+  }
+
+  section.textelong blockquote {
+    background: rgb(236, 236, 236);
+    border-left: 6px solid grey;
+    font-family: "Fira Sans Light";
+    color: rgb(83, 83, 83); 
+    font-size: 16pt;
+    text-align: justify;
+    padding: 15px;
+}
+
+section.textelong code {
+  font-size: 21px;
+  background: #d1bf9d;
+  color: black;
+  padding: 5px;
+  text-align: left;
+}
+
+
+section.textelong blockquote:before {
+  content: unset;
+}
+
+section.textelong blockquote:after{
   content: unset;
 }
 
