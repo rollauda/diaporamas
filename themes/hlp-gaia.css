@@ -60,10 +60,11 @@ blockquote:before{
   }
   
 code {
-    font-size: 22px;
+    font-size: 21px;
     background: grey;
     color: whitesmoke;
     font-weight: bold;
+    padding: 15px;
 }
 
 ul li { 
@@ -158,19 +159,24 @@ section.texte h1 {
   text-align: center;
   }
 
-  section.texte h2,
+  section.texte h2 {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(54, 53, 53);
+    border-bottom: solid 0px;
+  }
+
   section.texte h3,
   section.texte h4,
   section.texte h5,
   section.texte h6 {
-    font-size: 1em;
+    font-size: 0.9em;
     font-weight: bold;
     text-align: right;
     color: rgb(54, 53, 53);
     border-bottom: solid 0px;
   }
-
-
 
 section.texte blockquote:before {
   content: unset;
@@ -181,19 +187,18 @@ section.texte blockquote:after{
 }
 
 /* ------------------- textelong -----------------------------*/
-section.texte {
+section.textelong {
   font-family: "Fira Sans Light";
   font-weight: initial;
-  font-size:20pt;
+  font-size:18pt;
   }
   
-section.texte p {
+section.textelong p {
   color: rgb(83, 83, 83);
-  text-align: justify;
   }
 
 
-section.texte h1 {
+section.textelong h1 {
   font-family: "Lato";
   font-size: 1.2em;
   color: rgb(83, 83, 83);
@@ -201,19 +206,26 @@ section.texte h1 {
   text-align: center;
   }
 
-  section.texte h2,
-  section.texte h3,
-  section.texte h4,
-  section.texte h5,
-  section.texte h6 {
+  section.textelong h2 {
     font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(54, 53, 53);
+    border-bottom: solid 0px;
+  }
+
+  section.textelong h3,
+  section.textelong h4,
+  section.textelong h5,
+  section.textelong h6 {
+    font-size: 0.9em;
     font-weight: bold;
     text-align: right;
     color: rgb(54, 53, 53);
     border-bottom: solid 0px;
   }
 
-  section.texte blockquote {
+  section.textelong blockquote {
     background: rgb(236, 236, 236);
     border-left: 6px solid grey;
     font-family: "Fira Sans Light";
@@ -223,11 +235,11 @@ section.texte h1 {
     padding: 15px;
 }
 
-section.texte blockquote:before {
+section.textelong blockquote:before {
   content: unset;
 }
 
-section.texte blockquote:after{
+section.textelong blockquote:after{
   content: unset;
 }
 
